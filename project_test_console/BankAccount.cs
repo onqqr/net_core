@@ -8,7 +8,7 @@ public class BankAccount {
     public BankAccount(string userName, string accountNumber, double balance) {
         this.userName = userName;
         this.accountNumber = accountNumber;
-        this.balance = balance < 0 ? 0 :  balance;
+        this.balance = balance < 0 ? 0 : balance;
     }
 
     public void Deposit(double amount) {
