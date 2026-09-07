@@ -1,4 +1,4 @@
-﻿using project_test_console;
+using project_test_console;
 
 // Homework1.Run();
 // Homework2.Run();

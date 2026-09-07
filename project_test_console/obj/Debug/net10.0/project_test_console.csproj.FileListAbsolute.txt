@@ -1,0 +1,15 @@
+/Users/onqqr/developer/net_core/net_core/project_test_console/bin/Debug/net10.0/project_test_console
+/Users/onqqr/developer/net_core/net_core/project_test_console/bin/Debug/net10.0/project_test_console.deps.json
+/Users/onqqr/developer/net_core/net_core/project_test_console/bin/Debug/net10.0/project_test_console.runtimeconfig.json
+/Users/onqqr/developer/net_core/net_core/project_test_console/bin/Debug/net10.0/project_test_console.dll
+/Users/onqqr/developer/net_core/net_core/project_test_console/bin/Debug/net10.0/project_test_console.pdb
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/project_test_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/project_test_console.AssemblyInfoInputs.cache
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/project_test_console.AssemblyInfo.cs
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/project_test_console.csproj.CoreCompileInputs.cache
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/project_test_console.dll
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/refint/project_test_console.dll
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/project_test_console.pdb
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/project_test_console.genruntimeconfig.cache
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/ref/project_test_console.dll
+/Users/onqqr/developer/net_core/net_core/project_test_console/obj/Debug/net10.0/project_test_console.sourcelink.json
