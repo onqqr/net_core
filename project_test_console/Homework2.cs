@@ -1,7 +1,6 @@
 namespace project_test_console;
 
-public class Homework2
-{
+public class Homework2 {
     public static void Run() {
         while (true) {
             Console.WriteLine("enter first number");

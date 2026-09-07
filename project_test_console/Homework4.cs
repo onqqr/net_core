@@ -1,7 +1,6 @@
 namespace project_test_console;
 
-public class Homework4
-{
+public class Homework4 {
     public static void Run() {
         int secretNumber = 19;
         int att = 0;
@@ -21,8 +20,7 @@ public class Homework4
                     break;
                 }
             }
-            else
-            {
+            else {
                 Console.WriteLine("invalid input, try again");
             }
         }

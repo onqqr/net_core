@@ -1,7 +1,6 @@
 namespace project_test_console;
 
-public class Homework3
-{
+public class Homework3 {
     public static void Run() {
         while (true) {
             Console.WriteLine("enter a number");

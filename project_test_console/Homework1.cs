@@ -1,7 +1,6 @@
 namespace project_test_console;
 
-public class Homework1
-{
+public class Homework1 {
     public static void Run() {
         while (true) {
             Console.WriteLine("enter your temperature:");
