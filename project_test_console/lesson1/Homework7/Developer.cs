@@ -1,4 +1,4 @@
-namespace project_test_console;
+namespace project_test_console.lesson1.Homework7;
 
 public class Developer : Employee 
 {

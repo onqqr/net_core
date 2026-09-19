@@ -1,4 +1,4 @@
-namespace project_test_console;
+namespace project_test_console.lesson1;
 
 public class Homework4 
 {
@@ -11,7 +11,7 @@ public class Homework4
 
         while (true) 
         {
-            string input = Console.ReadLine();
+            string input = Console.ReadLine()!;
             if (int.TryParse(input, out int result)) 
             {
                 att++;

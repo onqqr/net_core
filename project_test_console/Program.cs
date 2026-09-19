@@ -1,4 +1,5 @@
-using project_test_console;
+using project_test_console.lesson1.Homework7;
+using project_test_console.lesson1.Homework8;
 
 // Homework1.Run();
 // Homework2.Run();
