@@ -1,13 +1,18 @@
 namespace project_test_console;
 
-public class Homework3 {
-    public static void Run() {
-        while (true) {
+public class Homework3 
+{
+    public static void Run() 
+    {
+        while (true) 
+        {
             Console.WriteLine("enter a number");
             string number = Console.ReadLine();
             
-            if (int.TryParse(number, out int result)) {
-                if (result == 0) {
+            if (int.TryParse(number, out int result)) 
+            {
+                if (result == 0) 
+                {
                     Console.WriteLine("your a number - 0");
                     return;
                 }
@@ -16,7 +21,9 @@ public class Homework3 {
                 string parity = (result % 2 == 0) ? "even" : "odd";
                 Console.WriteLine($"Number is {sign} \nNumber is {parity}");
                 break;
-            } else {
+            } 
+            else 
+            {
                 Console.WriteLine("invalid input. pls enter a number");
             }
         }

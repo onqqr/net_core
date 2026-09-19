@@ -1,14 +1,14 @@
 namespace project_test_console;
 
 public class BankAccount {
-    private string userName;
-    private string accountNumber;
-    private double balance;
+    private string _userName;
+    private string _accountNumber;
+    private double _balance;
     
     public BankAccount(string userName, string accountNumber, double balance) {
-        this.userName = userName;
-        this.accountNumber = accountNumber;
-        this.balance = balance < 0 ? 0 : balance;
+        this._userName = userName;
+        this._accountNumber = accountNumber;
+        this._balance = balance < 0 ? 0 : balance;
     }
 
     public void Deposit(double amount) {
@@ -16,7 +16,7 @@ public class BankAccount {
             Console.WriteLine("you cannot deposit negative or zero");
             return;
         }
-        balance += amount;
+        _balance += amount;
     }
 
     public void Withdraw(double amount) {
@@ -24,10 +24,10 @@ public class BankAccount {
             Console.WriteLine("you cannot withdraw negative or zero");
             return;
         } 
-        if (amount > balance) {
+        if (amount > _balance) {
             Console.WriteLine("you cannot withdraw more than your balance");
             return;
         }
-        balance -= amount;
+        _balance -= amount;
     }
 }
